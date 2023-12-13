@@ -31,8 +31,6 @@ int main() {
 - 💬 Ask me about anything related to Programming Languages, ML, DSA, OS, DBMS, TOC and more.
 - 😄 Pronouns: He / His
 - ⚡ Fun fact: No headphones or Coffee needed🤫🎶☕while code👨‍💻. Just me, my thoughts, and the rhythm of algorithms with beats of key strokes💻.
-  
-- Excited to connect, collaborate, and innovate in the world of technology! 🚀✨
 
 
  </details>
