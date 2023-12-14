@@ -28,7 +28,7 @@ int main() {
 - 🔭 I’m currently working on Cancer Detection through ML, a project that aims to leverage the power of algorithms to enhance early detection.
 - 🌱 I’m currently learning  web development, deep learning and pushing boundaries.
 - 👯 I’m looking to collaborate on Web Dev and ML open source projects.
-- 🤔 I’m looking for help with refining my old projects and ideas  for cancer detection through image processing.
+- 🤔 I’m looking for help with refining my existing repositories and ideas  for cancer detection through image processing.
 - 💬 Ask me about anything related to Programming Languages, ML, DSA, OS, DBMS, TOC and more.
 - 😄 Pronouns: He / His
 - ⚡ Fun fact: No headphones or Coffee needed🤫🎶☕while code👨‍💻. Just me, my thoughts, and the rhythm of algorithms with beats of key strokes💻.
