@@ -26,9 +26,9 @@ int main() {
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 - 🔭 I’m currently working on Cancer Detection through ML, a project that aims to leverage the power of algorithms to enhance early detection.
-- 🌱 I’m currently learning  web development, deep learning and pushing boundaries.
-- 👯 I’m looking to collaborate on Web Dev and ML open source projects.
-- 🤔 I’m looking for help with refining my existing repositories and ideas  for cancer detection through image processing.
+- 🌱 I’m currently learning  web development, deep learning and pushing existing boundaries.
+- 👯 I’m looking to collaborate on Web Dev, J2EE and ML open source projects.
+- 🤔 I’m looking for help with refining my existing repositories and ideas  for image classification using cnns or transformers.
 - 💬 Ask me about anything related to Programming Languages, ML, DSA, OS, DBMS, TOC and more.
 - 😄 Pronouns: He / His
 - ⚡ Fun fact: No headphones or Coffee needed🤫🎶☕while code👨‍💻. Just me, my thoughts, and the rhythm of algorithms with beats of key strokes💻.
